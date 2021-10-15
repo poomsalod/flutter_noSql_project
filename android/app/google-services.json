@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "895755013487",
+    "project_id": "ananta-e7684",
+    "storage_bucket": "ananta-e7684.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895755013487:android:59ea02b0c70a5d75d86c9a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895755013487-ph8gr1on29d06jlq9lef3nc5plphuuu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIRIprhLU2010_rUGRC4-sXnMgrGjUn3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895755013487-ph8gr1on29d06jlq9lef3nc5plphuuu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
